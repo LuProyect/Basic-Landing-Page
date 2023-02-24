@@ -21,7 +21,12 @@ Users should be able to:
 
 ### Screenshot
 
+- Desktop
+
 ![Imagen Desktop](./Screenshot-1.png)
+
+- Mobile
+
 ![Imagen Mobile](./Screenshot-2.png)
 
 ### Links
